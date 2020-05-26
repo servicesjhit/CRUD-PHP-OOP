@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	background-color: purple;
+
+}
+table{
+	position: relative;
+	left: 10%;
+	top: 20%;
+	height: 40vh;
+	width: 60vw;
+	background-color: white;
+	border-style: none;
+             border-spacing: 0px
+
+
+}
+th{
+	padding: 10px;
+	background-color: orange;
+}
+td{
+	padding: 5px;
+	background-color: cyan;
+	text-align: center;
+}
